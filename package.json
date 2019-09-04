@@ -1,0 +1,19 @@
+{
+  "name": "0702-npm",
+  "version": "1.0.0",
+  "description": "NPM init exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "0702-npm"
+  },
+  "keywords": [
+    "testing",
+    "npm"
+  ],
+  "author": "Karn",
+  "license": "ISC"
+}
